@@ -1,0 +1,1 @@
+rootProject.name = "com.metehanbolat.ktor-my-app"
